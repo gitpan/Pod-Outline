@@ -1,10 +1,11 @@
 Changes.pod
-MANIFEST
-META.yml # Will be created by "make dist"
 Makefile.PL
+MANIFEST
+META.yml
+Outline.pm
+pod-outline
 README
-lib/Pod/Outline.pm
-bin/pod-outline
 t/00load.t
-t/pod-coverage.t
+t/indent.pod
+t/indent.t
 t/pod.t
